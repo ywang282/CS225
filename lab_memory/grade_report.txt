@@ -1,0 +1,25 @@
+svn: Working copy '/dev/shm/khattar2/cs225_current_checkout' locked
+svn: run 'svn cleanup' to remove locks (type 'svn help cleanup' for details)
+Monad Autograder
+Testing lab_memory at 2014-09-15 11:53:17
+
+"I think I may have made a student cry during my exam..." ~ Joe DiFebo
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+test_constructor (asan) [5 pts]  - passed
+test_allocate (asan)  . [5 pts]  - passed
+test_printrooms (asan)  [20 pts] - passed
+test_any_output . . . . [30 pts] - passed
+test_correct_output . . [40 pts] - passed
+
+
+Total score...
+================================================================
+TOTAL SCORE: 100
+

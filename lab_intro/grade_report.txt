@@ -1,0 +1,23 @@
+Monad Autograder
+Testing lab_intro at 2014-09-01 03:15:00
+
+"If you think you can do it all, you're thinking too small." ~ Michael Lopp
+
+Setting up test environment...
+Compiling...
+================================================================
+unit_tests.o: In function `proxy_test::testBlendImages(util::sizedpipestream<512ul>&)':
+unit_tests.cpp:(.text+0x15a5): undefined reference to `blendImages(PNG, PNG)'
+clang-3.4: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [proxy] Error 1
+
+
+Running tests...
+================================================================
+Could not execute test cases
+
+
+Total score...
+================================================================
+TOTAL SCORE: 0
+

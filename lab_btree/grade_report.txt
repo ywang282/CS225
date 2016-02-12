@@ -1,0 +1,29 @@
+Grading revision r45868 by ywang282, dated 2014-11-07 14:31:47.000682678 -0600 CST
+Monad Autograder
+Testing lab_btree at 2014-11-10 19:17:38
+
+"If I had a 3D Reese's chocolate printer I would use that thing all the time always." ~ Chase Geigle
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+test_insertion_idx_emp  . . . [10 pts] - passed
+test_insertion_idx_small  . . [10 pts] - passed
+test_insertion_idx_logn . . . [10 pts] - passed
+test_btree3_small (asan)  . . [10 pts] - passed
+test_btree3_large_seq . . . . [10 pts] - passed
+test_btree3_large_rand  . . . [10 pts] - passed
+test_btree64_large_seq  . . . [10 pts] - passed
+test_btree64_large_rand . . . [10 pts] - passed
+test_btree128_med_rand (asan) [10 pts] - passed
+test_btree5_strings . . . . . [10 pts] - passed
+
+
+Total score...
+================================================================
+TOTAL SCORE: 100
+

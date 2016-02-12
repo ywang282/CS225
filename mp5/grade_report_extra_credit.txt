@@ -1,0 +1,43 @@
+Monad Autograder
+Testing mp5.1 at 2014-10-25 14:26:04
+
+"The sooner you start to code, the longer the program will take." ~ R. Carlson
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+test_default_ctor  . . . . [4 pts] - passed
+test_ctor_1  . . . . . . . [4 pts] - FAILED
+test_ctor_2  . . . . . . . [4 pts] - FAILED
+test_buildTree_1 . . . . . [4 pts] - passed
+test_buildTree_2 . . . . . [4 pts] - passed
+test_buildTree_3 . . . . . [4 pts] - FAILED
+test_cctor_1 . . . . . . . [2 pts] - passed
+test_cctor_2 . . . . . . . [2 pts] - FAILED
+test_cctor_3 . . . . . . . [2 pts] - FAILED
+test_cctor_4 . . . . . . . [4 pts] - FAILED
+test_assign_op_1 . . . . . [2 pts] - passed
+test_assign_op_2 . . . . . [2 pts] - FAILED
+test_assign_op_3 . . . . . [2 pts] - FAILED
+test_assign_op_4 . . . . . [4 pts] - FAILED
+test_getPixel_1  . . . . . [4 pts] - passed
+test_getPixel_2  . . . . . [4 pts] - passed
+test_getPixel_3  . . . . . [4 pts] - passed
+test_getPixel_4  . . . . . [4 pts] - passed
+test_decompress_unpruned_1 [4 pts] - FAILED
+test_decompress_unpruned_2 [4 pts] - FAILED
+test_decompress_unpruned_3 [6 pts] - FAILED
+test_decompress_unpruned_4 [6 pts] - FAILED
+time_getPixel_logn . . . . [6 pts] - FAILED
+time_decompress_n (asan) . [6 pts] - FAILED
+valgrind_big3 (asan) . . . [8 pts] - FAILED
+
+
+Total score...
+================================================================
+TOTAL SCORE: 32
+
